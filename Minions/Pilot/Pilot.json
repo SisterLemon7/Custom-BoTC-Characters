@@ -7,7 +7,7 @@
   ],
   "team": "minion",
   "edition": "Silly",
-  "ability": "Once per day, you may guess a player's character. If you are correct, they die. Otherwise, you permanently lose your ability.",
+  "ability": "Once per day, you may guess a player's character. If you are correct, they die. Otherwise, you permanently lose this ability.",
   "flavor": "\"Commander, we've pinpointed their location. Are we clear to deploy explosives?\"",
   "reminders": [
     "No Ability"
