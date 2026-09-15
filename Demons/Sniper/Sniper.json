@@ -1,0 +1,33 @@
+{
+  "id": "sniper",
+  "name": "Sniper",
+  "image": [
+    "https://github.com/SisterLemon7/Custom-BoTC-Characters/blob/main/Demons/Sniper/Sniper_Evil.png?raw=true",
+    "https://github.com/SisterLemon7/Custom-BoTC-Characters/blob/main/Demons/Sniper/Sniper_Good.png?raw=true"
+  ],
+  "team": "demon",
+  "edition": "Silly",
+  "ability": "Each night*, every player chooses a number from 0 to X. Any player that chose the same number as you, dies. (X = 10 - night + 2)",
+  "flavor": "\"Target locked. Neutralizing....wait. Who was that?\"",
+  "otherNight": 50,
+  "otherNightReminder": "Every player, including the Sniper, wakes and gives a finger signal. :reminder:",
+  "reminders": [
+    "Dead",
+    "Dead",
+    "Dead",
+    "Dead",
+    "Dead",
+    "Dead",
+    "Dead",
+    "Dead",
+    "Dead",
+    "Dead"
+  ],
+  "setup": false,
+  "jinxes": [
+    {
+      "id": "exorcist",
+      "reason": "If the Exorcist chooses the Sniper, all other players still wake to choose a number, and nobody dies tonight."
+    }
+  ]
+}

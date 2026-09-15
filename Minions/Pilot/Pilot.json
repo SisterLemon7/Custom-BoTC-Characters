@@ -1,0 +1,42 @@
+{
+  "id": "pilot",
+  "name": "Pilot",
+  "image": [
+    "https://github.com/SisterLemon7/Custom-BoTC-Characters/blob/main/Minions/Pilot/Pilot_Evil.png?raw=true",
+    "https://github.com/SisterLemon7/Custom-BoTC-Characters/blob/main/Minions/Pilot/Pilot_Good.png?raw=true"
+  ],
+  "team": "minion",
+  "edition": "Silly",
+  "ability": "Once per day, you may guess a player's character. If you are correct, they die. Otherwise, you permanently lose your ability.",
+  "flavor": "\"Commander, we've pinpointed their location. Are we clear to deploy explosives?\"",
+  "reminders": [
+    "No Ability"
+  ],
+  "setup": false,
+  "jinxes": [
+    {
+      "id": "vigormortis",
+      "reason": "A Pilot can still lose their ability, even if they are, or were, killed by the Vigormortis."
+    },
+    {
+      "id": "spy",
+      "reason": "If the Spy is (or has been) in play, the Pilot must make their guesses publicly."
+    },
+    {
+      "id": "widow",
+      "reason": "If the Widow is (or has been) in play, the Pilot must make their guesses publicly."
+    },
+    {
+      "id": "magician",
+      "reason": "The Pilot may not guess a player as the Magician."
+    },
+    {
+      "id": "king",
+      "reason": "The Pilot may not guess a player as the King."
+    },
+    {
+      "id": "preacher",
+      "reason": "If the Pilot has permanently lost their ability and been preached, they do not regain their ability when the Preacher is drunk, poisoned or dead."
+    }
+  ]
+}
